@@ -3,7 +3,7 @@
 
 İpucu: İç içe 2 tane for döngüsü kullanın. Aynı zamanda sayıları range() fonksiyonunu kullanarak elde edin.
 """
-for i in range(0,6):
+for i in range(0,5):
     print("************************************")
     for j in range(0,11):
         print("{} * {} = {} ".format(i,j,i*j))
